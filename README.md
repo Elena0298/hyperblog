@@ -10,3 +10,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 
 *Es genial poder tomar el curso de Git y GitHub.*
 ## Incluye ejemplos en Windows, Linux y Mac.
+## Disponibles para todas las edades.
