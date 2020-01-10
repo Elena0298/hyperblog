@@ -4,6 +4,10 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 
 **Este repositorio fue hecho para aprendizaje personal.**
 
-*Es buno poder practicar, la práctica hace al maestro.*
+*Es bueno poder practicar, la práctica hace al maestro.*
 
 ## Trataré de probar este editor de texto de Readme para poder ver qué tan bueno es.
+
+*Es genial poder tomar el curso de Git y GitHub.*
+
+
