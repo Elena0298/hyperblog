@@ -9,5 +9,4 @@ Un blog increíble para el curso de Git y GitHub de Platzi.
 ## Trataré de probar este editor de texto de Readme para poder ver qué tan bueno es.
 
 *Es genial poder tomar el curso de Git y GitHub.*
-
-
+## Incluye ejemplos en Windows, Linux y Mac.
